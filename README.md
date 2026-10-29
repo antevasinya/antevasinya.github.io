@@ -1,5 +1,3 @@
-# antevasinya.github.io
-для личного использования
 <!doctype html>
 <html lang="en">
 <head>
